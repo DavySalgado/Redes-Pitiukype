@@ -1,0 +1,9 @@
+Adicione isso no plugins.registry.json:
+
+{
+  "id": "xadrez",
+  "dir": "plugins/xadrez",
+  "build": "ant",
+  "jar": "dist/pitiupi.xadrez.jar",
+  "menuCategory": "Social"
+}
